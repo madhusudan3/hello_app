@@ -194,13 +194,13 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap (>= 1.1.0)
-  byebug (= 9.0.6)
+  byebug
   capybara (>= 2.15)
   chromedriver-helper
   coffee-rails (~> 4.2)
   jbuilder (~> 2.7)
   listen (>= 3.1.5, < 3.2)
-  pg
+  pg (= 0.20.0)
   puma (~> 3.11)
   rails (~> 5.2.1)
   sass-rails (~> 5.0)
